@@ -6,7 +6,8 @@ ________________________________
 _______________________________
 
 Primeiros passos
-instalar = > npm install styled-components > biblioteca que irei utilizar <
+instalar = 
+> npm install styled-components > biblioteca que irei utilizar <
 
 npm install -D@types/styled-components npm install
 ______________________________
